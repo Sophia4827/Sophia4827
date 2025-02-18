@@ -1,4 +1,6 @@
-## Hi there 👋
+# Sophia Huang
+
+
 
 <!--
 **Sophia4827/Sophia4827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
