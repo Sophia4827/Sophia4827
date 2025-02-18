@@ -1,18 +1,18 @@
-# Sophia Huang
+# Hi, I'm Sophia
 
+My name is Sophia Huang, and I am currently a senior at Binghamton University, majoring in Psychology and minoring in Digital and Data Studies. I am passionate in pursuing Data Analytics after graduation.
 
+Some course that I have taken that pertains to Data Analytics are:
+* Introduction to Coding in Python
+* Data and Society
+* Introduction to Deep Learning
+* Spatial Fundamentals in R
+* Data Wrangling
+* Community Practice
 
-<!--
-**Sophia4827/Sophia4827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some technical skills that I have gained throughout my time at Binghamton University:
+* Python
+* R
+* SQL
+* Tableau
+* Excel
